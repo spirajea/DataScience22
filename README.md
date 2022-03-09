@@ -21,7 +21,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 
 ### Aufgaben
-**HINWEIS: Abgabe per Moodle bis 24 Uhr, Donnerstag in der Woche nach dem Labor**
+**HINWEIS: Abgabe per Moodle bis 24 Uhr, Mittwoch in der Woche nach dem Labor**
 
-* [Aufgabe 1.1](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/Week_1/Assignment-01.ipynb)
+* NN
 
