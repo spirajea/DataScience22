@@ -7,7 +7,7 @@ Kursmaterialien zur Vorlesung Data Science im SS22
 * speichern Sie ihre Ergebnisse/Code in *Colab* über *download*, *save to google drive* oder *push to github* 
 
 ## Woche 1
-Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data Science" im SS21 gehört haben, kennen die Pythoneinführung bereits und werden hier nichts neues erfahren.
+Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data Mining" im WS21 gehört haben, kennen die Pythoneinführung bereits und werden hier nichts neues erfahren.
 
 ### Labor
 * [Python tutorial: Jupyter](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/Python_Tutorial/00_Jupyter-Intro.ipynb)
