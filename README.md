@@ -3,7 +3,7 @@ Kursmaterialien zur Vorlesung Data Science im SS22
 
 
 ## Hinweise
-* es wird ein  *Google* account benötigt um code in *Colab* auszuführen.
+* es wird ein  [*Google* account](https://accounts.google.com/signup/v2/webcreateaccount?hl=en&flowName=GlifWebSignIn&flowEntry=SignUp) benötigt um code in [*Colab*](https://colab.research.google.com) auszuführen.
 * speichern Sie ihre Ergebnisse/Code in *Colab* über *download*, *save to google drive* oder *push to github* 
 
 ## Woche 1
@@ -21,7 +21,7 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 
 ### Aufgaben
-**HINWEIS: Abgabe per Moodle bis 24 Uhr, Donnerstag in der Woche nach dem Labor**
+**HINWEIS: Abgabe per Moodle bis 24 Uhr, Mittwoch in der Woche nach dem Labor**
 
-* [Aufgabe 1.1](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/Week_1/Assignment-01.ipynb)
+* NN
 
