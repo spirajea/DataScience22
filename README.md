@@ -9,6 +9,9 @@ Kursmaterialien zur Vorlesung Data Science im SS22
 ## Woche 1
 Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data Mining" im WS21 gehört haben, kennen die Pythoneinführung bereits und werden hier nichts neues erfahren.
 
+### Vorlesung
+* [Use Case NY Taxi](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_1/UseCase_NY_Taxi.ipynb)
+
 ### Labor
 * [Python tutorial: Jupyter](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/Python_Tutorial/00_Jupyter-Intro.ipynb)
 * [Python tutorial: Working with Variables](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/Python_Tutorial/01_variables.ipynb)
@@ -23,5 +26,5 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 ### Aufgaben
 **HINWEIS: Abgabe per Moodle bis 24 Uhr, Mittwoch in der Woche nach dem Labor**
 
-* NN
+* [Aufgabe: Python Modul](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_1/Aufgabe_Python.ipynb) -> [Abgabe](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5869#section-1)
 
