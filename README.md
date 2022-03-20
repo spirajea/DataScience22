@@ -35,4 +35,4 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 * [Use Case Movie Recommender](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_2/UseCase_RecommendationSystems.ipynb)
 
 ### Labor
-* [NumPy tutorial: Jupyter](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_2/Introduction_to__Numpy.ipynb)
+* [NumPy Tutorial](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_2/Introduction_to__Numpy.ipynb)
