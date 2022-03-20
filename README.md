@@ -28,3 +28,11 @@ Das Labor und die Hausaufgaben in Woche 1 sind freiwillig. Alle die schon "Data 
 
 * [Aufgabe: Python Modul](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_1/Aufgabe_Python.ipynb) -> [Abgabe](https://elearning.hs-offenburg.de/moodle/course/view.php?id=5869#section-1)
 
+## Woche 2
+
+### Vorlesung
+* [Tensor Algebra](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_2/Tensor_Algebra.ipynb)
+* [Use Case Movie Recommender](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_2/UseCase_RecommendationSystems.ipynb)
+
+### Labor
+* [NumPy tutorial: Jupyter](https://colab.research.google.com/github/keuperj/DataScience22/blob/main/week_2/Introduction_to__Numpy.ipynb)
